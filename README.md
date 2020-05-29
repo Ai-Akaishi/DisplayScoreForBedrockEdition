@@ -21,14 +21,17 @@ BE向けのスコアを表示するサンプルコマンド
 ```
 3. 値を入れてfunctionを呼んでね。 / Set a value, then call the function.  
 ```
-/scoreboard players set @s Score 12345  
+/scoreboard players set @s Score 1234567890  
 /function display_score/score  
+-> 1234567890  
   
-/scoreboard players set @s Money 12345  
+/scoreboard players set @s Money 1234567890  
 /function display_score/money  
+-> 所持金 1,234,567,890 GOLD
   
-/scoreboard players set @s Time 12345  
+/scoreboard players set @s Time 21641934  
 /function display_score/time
+-> 12d 12:34:56.70
 ```
 
 # 連絡はこちら/Contact
