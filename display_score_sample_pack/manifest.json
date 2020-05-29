@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "uuid": "8d098198-12a1-4534-a711-b3da4e159f23",
+        "name": "Display Score Pack Sample",
+        "description": "Display Score Pack Sample",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "uuid": "7eb9dc49-93b5-458c-b00f-b66e6f425aaf",
+            "type": "data",
+            "description": "",
+            "version": [0, 0, 1]
+        }
+    ]
+}
